@@ -1,0 +1,4 @@
+ eesnimi=Kalmer;perenimi=Koopaorav;e-mail=kalko@gmail.com;telefon=56785678
+ eesnimi=Pets;telefon=54342211
+ perenimi=Mushkin;telefon=234234234234;e-mail=igor.mushkin@mail.ru
+ eesnimi=Malle;e-mail=malleke@ups.com;perenimi=Maadeuurija;lisainfo=lemmik

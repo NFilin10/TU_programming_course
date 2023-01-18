@@ -1,0 +1,4 @@
+111AAA;20000;Audi;punane
+222BBB;10000;Seat;valge
+333CCC;15000;Alfa Romeo;punane
+444DDD;17000;Audi;sinine

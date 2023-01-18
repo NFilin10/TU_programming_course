@@ -1,0 +1,15 @@
+001...010 = Kuressaare haigla
+011...019 = Tartu Ülikooli Naistekliinik
+021...150 = Ida-Tallinna keskhaigla, Pelgulinna sünnitusmaja (Tallinn)
+151...160 = Keila haigla
+161...220 = Rapla haigla, Loksa haigla, Hiiumaa haigla (Kärdla)
+221...270 = Ida-Viru keskhaigla (Kohtla-Järve, endine Jõhvi)
+271...370 = Maarjamõisa kliinikum (Tartu), Jõgeva haigla
+371...420 = Narva haigla
+421...470 = Pärnu haigla
+471...490 = Haapsalu haigla
+491...520 = Järvamaa haigla (Paide)
+521...570 = Rakvere haigla, Tapa haigla
+571...600 = Valga haigla
+601...650 = Viljandi haigla
+651...700 = Lõuna-Eesti haigla (Võru), Põlva haigla

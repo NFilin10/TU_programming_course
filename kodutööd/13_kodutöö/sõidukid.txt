@@ -1,0 +1,5 @@
+Veoauto - Mann, 80000, 30
+Mootorratas - Suzuki, 12000, 10.5
+Veoauto - Scania, 72000, 35
+Sõiduauto - Opel, 10000, 7.3
+Sõiduauto - Toyota, 15000, 5.7

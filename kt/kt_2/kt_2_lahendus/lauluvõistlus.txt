@@ -1,0 +1,5 @@
+Mari Maasikas;Maasikas kasvab põllul;2;5;3;1;0;4.7
+Robert Rebane;Täna rokin koolis!;5;4;6;5;4;6.1
+Triinu Lepatriinu;Neiu rohelises kleidis;10;8;10;7;9;9.4
+Karl Karu;Mõmmilaul;10;9;9;6;10;7.4
+Anna Aabits;Viiulihullus;0;0;1;0;0;1.9
